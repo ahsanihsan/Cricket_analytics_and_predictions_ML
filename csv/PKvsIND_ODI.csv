@@ -1,0 +1,34 @@
+id,city,month,match_type,team_a,team_b,toss_won,toss_decision,venue,winner
+1,,February,ODI,Pakistan,India,Pakistan,bat,Rawalpindi Cricket Stadium,India
+2,Colombo,February,ODI,India,Pakistan,India,field,P Sara Oval,India
+3,Abu Dhabi,April,ODI,India,Pakistan,India,bat,Sheikh Zayed Stadium,India
+4,Manchester,June,ODI,India,Pakistan,Pakistan,field,Old Trafford,India
+5,Karachi,June,ODI,Pakistan,India,Pakistan,bat,National Stadium,India
+6,,September,ODI,Pakistan,India,Pakistan,bat,Dubai International Cricket Stadium,India
+7,Abu Dhabi,April,ODI,India,Pakistan,India,bat,Sheikh Zayed Stadium,Pakistan
+8,Chandigarh,March,ODI,India,Pakistan,India,bat,"Punjab Cricket Association Stadium, Mohali",India
+9,,February,ODI,Pakistan,India,India,field,Multan Cricket Stadium,India
+10,Kanpur,November,ODI,India,Pakistan,Pakistan,field,Green Park,India
+11,Guwahati,November,ODI,India,Pakistan,Pakistan,bat,Nehru Stadium,India
+12,,February,ODI,India,Pakistan,India,bat,Adelaide Oval,India
+13,Lahore,February,ODI,Pakistan,India,India,field,Gaddafi Stadium,India
+14,Mirpur,June,ODI,India,Pakistan,India,bat,Shere Bangla National Stadium,India
+15,Karachi,February,ODI,Pakistan,India,India,field,National Stadium,India
+16,Karachi,July,ODI,Pakistan,India,India,bat,National Stadium,Pakistan
+17,Kolkata,January,ODI,India,Pakistan,India,field,Eden Gardens,Pakistan
+18,Centurion,September,ODI,India,Pakistan,Pakistan,bat,SuperSport Park,Pakistan
+19,Mirpur,March,ODI,India,Pakistan,Pakistan,bat,Shere Bangla National Stadium,India
+20,Gwalior,November,ODI,India,Pakistan,Pakistan,bat,Captain Roop Singh Stadium,India
+21,,June,ODI,India,Pakistan,Pakistan,bat,Rangiri Dambulla International Stadium,India
+22,Birmingham,June,ODI,India,Pakistan,Pakistan,field,Edgbaston,India
+23,,September,ODI,Pakistan,India,Pakistan,bat,Dubai International Cricket Stadium,India
+24,Peshawar,February,ODI,Pakistan,India,Pakistan,field,Arbab Niaz Stadium,Pakistan
+25,Birmingham,June,ODI,India,Pakistan,India,field,Edgbaston,India
+26,Mirpur,June,ODI,India,Pakistan,Pakistan,bat,Shere Bangla National Stadium,Pakistan
+27,Chennai,December,ODI,India,Pakistan,Pakistan,field,"MA Chidambaram Stadium, Chepauk",Pakistan
+28,Chandigarh,November,ODI,India,Pakistan,India,bat,"Punjab Cricket Association Stadium, Mohali",Pakistan
+29,London,June,ODI,India,Pakistan,India,field,Kennington Oval,Pakistan
+30,Jaipur,November,ODI,India,Pakistan,India,field,Sawai Mansingh Stadium,Pakistan
+31,Mirpur,March,ODI,India,Pakistan,Pakistan,field,Shere Bangla National Stadium,Pakistan
+32,Delhi,January,ODI,India,Pakistan,India,bat,Feroz Shah Kotla,India
+33,Derby,July,ODI,India,Pakistan,India,bat,County Ground,India
